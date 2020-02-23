@@ -3,6 +3,7 @@ body {
   margin: auto;
   font-family: 'Arial', "Helvetica Neue", Helvetica, sans-serif;
   font-size: 18px;
+  line-height: 100%;
   color: #777;
   background: #777;
 }
@@ -21,14 +22,14 @@ footer {
 section {
   float: left;
   width: 495px;
-  height: 267px;
+  height: 250px;
   overflow: hidden;
 }
 
 aside {
   float: right;
   width: 40%;
-  height: 267px;
+  height: 250px;
   overflow: hidden;
 }
 
